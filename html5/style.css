@@ -1,0 +1,70 @@
+header{
+    background-color: rgb(54, 63, 60);
+    border: 1cm rgb(210, 106, 32);
+    width: 200px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+ }
+main
+{
+width: 750px;
+height: 450px;
+}
+nav{
+    background-color: yellow ;
+    width: 150px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+section{background-color:blue;
+    width: 450px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+#art1{
+    background-color: blanchedalmond;
+    width: 440px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+}
+#art2{
+    background-color: blanchedalmond;
+    width: 440px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+}
+#art3{
+    background-color: blanchedalmond;
+    width: 440px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+}
+ aside{
+    background-color: blanchedalmond;
+    width: 120px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+ }
+footer{
+    background-color: blanchedalmond;
+    width: 720px;
+    height: 120px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+
+
